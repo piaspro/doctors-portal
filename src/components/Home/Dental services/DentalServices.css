@@ -1,0 +1,11 @@
+
+.setImage{
+    background-position: center bottom !important;
+    background-size: 100% 100%;
+}
+.doctors-info h2, p{
+    color: rgb(233, 227, 216);
+}
+.doctors-info  h3 {
+    color: rgb(4, 168, 168);
+}

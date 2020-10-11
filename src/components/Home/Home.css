@@ -1,0 +1,51 @@
+.back-img{
+    background-image: url("../../images/Mask\ Group\ 22.png");
+    height: 520px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.info-container{
+    width: 360px;
+}
+.info-container p{
+    color: gray ;
+}
+.info-container h1{
+    color:rgb(58, 66, 86) ;
+}
+.btn{
+    color: white !important;
+    padding: 8px;
+    border: none;
+    background-image: linear-gradient(90deg,rgb(24, 210, 174), rgb(15, 207, 234));
+}
+.back-color{
+    background-color: rgb(15, 207, 234);
+}
+.color{
+    background-color: rgb(58, 66, 86);
+}
+.back-color h6{
+    color: white;
+}
+.color h6{
+    color: white;
+}
+.text{
+    text-align: center;
+}
+.text h3{
+    color: rgb(4, 168, 168);
+}
+.text h4{
+    color: gray;
+}
+.text p{
+    color: gray;
+}
+.txt p{
+    color: gray;
+}
+
+
